@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import { useState, useEffect } from "react";
 import Navbar from "./components/Navbar";
 import Dashboard from "./pages/Dashboard";
@@ -13,7 +13,7 @@ export default function App() {
     // Load from JSON file directly
     const loadData = async () => {
       try {
-        const response = await fetch("/dataset.json");
+        const response = await fetch("./dataset.json");
         if (response.ok) {
           const data = await response.json();
           console.log(`Loaded ${data.length} students from dataset.json`);
