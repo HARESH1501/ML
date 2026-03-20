@@ -1,0 +1,1460 @@
+Internal Marks
+ACY
+2025-26
+ACY Semester
+Even
+Course
+U25CSG05 - Computational Problem
+Solving using Python
+Faculty
+AM015 - HARSHITHA H
+Evaluation Pattern
+Theory with Laboratory [2 0 2 0 3]
+Maximum Mark
+60
+Internal Pattern
+CIAT I
+Component
+Written Test 1 (60)
+List of Students and Internal Marks
+No
+Roll No.
+Fullname
+Semester
+Attendance
+Mark
+Opt. Mark
+Percentage
+Grade
+1
+25AM064
+MAHALAKSHMI S
+2
+
+54
+-
+90.0
+A+
+2
+25AM065
+MATHESH M
+2
+
+47
+-
+78.0
+A
+3
+25AM066
+MEYARULMOORTHI R
+2
+
+59
+-
+98.0
+O
+4
+25AM067
+MOHAMED INTHIYAS M
+2
+
+54
+-
+90.0
+A+
+5
+25AM068
+MOHAMED IZZAZ M
+2
+
+48
+-
+80.0
+A
+6
+25AM069
+MOHAMED SHAHEEM S
+2
+
+54
+-
+90.0
+A+
+7
+25AM070
+MOHAMMED ASHFAQ A
+2
+
+50
+-
+83.0
+A+
+8
+25AM071
+MOHANA PRIYA D
+2
+
+52
+-
+87.0
+A+
+9
+25AM072
+MONIKA S
+2
+
+51
+-
+85.0
+A+
+10
+25AM073
+MONISHA N
+2
+
+53
+-
+88.0
+A+
+11
+25AM074
+MONISHWAR S
+2
+
+58
+-
+97.0
+O
+12
+25AM075
+MOWSHIK G
+2
+
+54
+-
+90.0
+A+
+13
+25AM076
+NAVANEETHAN N S
+2
+
+58
+-
+97.0
+O
+14
+25AM077
+NEHA S T
+2
+
+58
+-
+97.0
+O
+15
+25AM078
+NIRANJAN KUMAR S
+2
+
+46
+-
+77.0
+A
+16
+25AM079
+NITHISH N T
+2
+
+51
+-
+85.0
+A+
+17
+25AM080
+NITHYA G
+2
+
+50
+-
+83.0
+A+
+18
+25AM081
+PAVIESHKUMAR K
+2
+
+54
+-
+90.0
+A+
+19
+25AM082
+PERARASU G
+2
+
+31
+-
+52.0
+C
+20
+25AM083
+PRACHITH BALAJI G
+2
+
+56
+-
+93.0
+O
+21
+25AM084
+PRANESH D
+2
+
+57
+-
+95.0
+O
+22
+25AM085
+PRATHIKSHA R
+2
+
+52
+-
+87.0
+A+
+23
+25AM086
+PRAVIN KUMAR A C
+2
+
+57
+-
+95.0
+O
+24
+25AM087
+PREETHIKA M
+2
+
+53
+-
+88.0
+A+
+25
+25AM088
+PREM N
+2
+
+47
+-
+78.0
+A
+26
+25AM089
+PRIYANKA P
+2
+
+45
+-
+75.0
+A
+27
+25AM090
+RABEESH R
+2
+
+53
+-
+88.0
+A+
+28
+25AM091
+RAGHAVI M
+2
+
+42
+-
+70.0
+B+
+29
+25AM092
+RAGURAAM M
+2
+
+52
+-
+87.0
+A+
+30
+25AM093
+RAJA P
+2
+
+46
+-
+77.0
+A
+31
+25AM094
+RAJESH S
+2
+
+56
+-
+93.0
+O
+32
+25AM095
+RANJANI PRIYA A S
+2
+
+53
+-
+88.0
+A+
+Center for Academic Courses (CFAC)
+KPR Institute of Engineering and Technology
+Page 1 of 5
+AM015:: 16-O3-2O26 O3:47:16 PM
+This document is computer generated and doesn't require any signature / stamp / seal to be valid.
+
+No
+Roll No.
+Fullname
+Semester
+Attendance
+Mark
+Opt. Mark
+Percentage
+Grade
+33
+25AM096
+RASWANTHI V P
+2
+
+55
+-
+92.0
+O
+34
+25AM097
+S RITHIK SARAN
+2
+
+56
+-
+93.0
+O
+35
+25AM098
+RITHISH R
+2
+
+57
+-
+95.0
+O
+36
+25AM099
+RITVIK S N
+2
+
+57
+-
+95.0
+O
+37
+25AM100
+ROHESH V
+2
+
+44
+-
+73.0
+A
+38
+25AM101
+ROHITHA S
+2
+
+51
+-
+85.0
+A+
+39
+25AM102
+ROSHNI KAILASH BRINDHA
+2
+
+39
+-
+65.0
+B+
+40
+25AM103
+SABITHA A
+2
+
+44
+-
+73.0
+A
+41
+25AM104
+SAI VARSHINI J
+2
+
+42
+-
+70.0
+B+
+42
+25AM105
+SAPARNA SIVAKUMAR
+2
+
+51
+-
+85.0
+A+
+43
+25AM106
+SASMITHA K M
+2
+
+50
+-
+83.0
+A+
+44
+25AM107
+SENAAN Y A
+2
+
+48
+-
+80.0
+A
+45
+25AM108
+SHAM C R
+2
+
+52
+-
+87.0
+A+
+46
+25AM109
+SIVARAAM M
+2
+
+57
+-
+95.0
+O
+47
+25AM110
+SRISHANTH S
+2
+
+57
+-
+95.0
+O
+48
+25AM111
+STEFFINA J
+2
+
+58
+-
+97.0
+O
+49
+25AM112
+SUGUNA S
+2
+
+51
+-
+85.0
+A+
+50
+25AM113
+SUJITH G
+2
+
+53
+-
+88.0
+A+
+51
+25AM114
+SUNITHA S
+2
+
+55
+-
+92.0
+O
+52
+25AM115
+TAMIL S
+2
+
+55
+-
+92.0
+O
+53
+25AM116
+THIRUMURUGAN B
+2
+
+50
+-
+83.0
+A+
+54
+25AM117
+UMA BHARATHI M
+2
+
+57
+-
+95.0
+O
+55
+25AM118
+VEERAKULAMMAL E
+2
+
+58
+-
+97.0
+O
+56
+25AM119
+VENKATESH PRABHU M
+2
+
+54
+-
+90.0
+A+
+57
+25AM120
+VIGNESH S
+2
+
+51
+-
+85.0
+A+
+58
+25AM121
+VISHANTH M
+2
+
+48
+-
+80.0
+A
+59
+25AM122
+VISHNU PRASAD G S
+2
+
+57
+-
+95.0
+O
+60
+25AM123
+VISHWA S P
+2
+
+52
+-
+87.0
+A+
+61
+25AM124
+YOGESHWARAN K
+2
+
+46
+-
+77.0
+A
+62
+25AM125
+YUVAN NANDAN B
+2
+
+52
+-
+87.0
+A+
+63
+25AM126
+YUVASRI C
+2
+
+57
+-
+95.0
+O
+64
+25AM127
+ASHWIN R
+2
+
+50
+-
+83.0
+A+
+65
+25AM129
+JANA AHMAD YOUSEF
+2
+
+10
+-
+17.0
+U
+66
+25AM131
+RITTA DEEB
+2
+
+40
+-
+67.0
+B+
+67
+25AM134
+AHMAD ALALOUNI
+2
+
+46
+-
+77.0
+A
+68
+25AM135
+HASHEM ALALOUNI
+2
+
+39
+-
+65.0
+B+
+69
+25AM137
+MAYA HASSAN
+2
+
+17
+-
+28.0
+U
+70
+25AM138
+MUHAMMAD WILIAM JADID
+2
+
+40
+-
+67.0
+B+
+71
+25AM139
+YOUSSEF DRGHAM
+2
+
+12
+-
+20.0
+U
+Center for Academic Courses (CFAC)
+KPR Institute of Engineering and Technology
+Page 2 of 5
+AM015:: 16-O3-2O26 O3:47:16 PM
+This document is computer generated and doesn't require any signature / stamp / seal to be valid.
+
+Consolidated
+Strength
+71
+Present
+71
+Absent
+0
+Passed
+68
+Failed
+3
+Maximum
+59
+Minimum
+10
+Average
+49.56
+Pass Percentage
+95.77
+Fail Percentage
+4.23
+O Grade (91 - 100)
+21
+A+ Grade (81 - 90)
+28
+A Grade (71 - 80)
+12
+B+ Grade (61 - 70)
+6
+B Grade (56 - 60)
+0
+C Grade (50 - 55)
+1
+U Grade (0 - 50)
+3
+UA Grade (0 - 0)
+0
+Grade: O - Students
+No
+Roll No.
+Fullname
+Semester
+Attendance
+Mark
+Opt. Mark
+Percentage
+Grade
+1
+25AM066
+MEYARULMOORTHI R
+2
+
+59
+-
+98.0
+O
+2
+25AM074
+MONISHWAR S
+2
+
+58
+-
+97.0
+O
+3
+25AM076
+NAVANEETHAN N S
+2
+
+58
+-
+97.0
+O
+4
+25AM077
+NEHA S T
+2
+
+58
+-
+97.0
+O
+5
+25AM083
+PRACHITH BALAJI G
+2
+
+56
+-
+93.0
+O
+6
+25AM084
+PRANESH D
+2
+
+57
+-
+95.0
+O
+7
+25AM086
+PRAVIN KUMAR A C
+2
+
+57
+-
+95.0
+O
+8
+25AM094
+RAJESH S
+2
+
+56
+-
+93.0
+O
+9
+25AM096
+RASWANTHI V P
+2
+
+55
+-
+92.0
+O
+10
+25AM097
+S RITHIK SARAN
+2
+
+56
+-
+93.0
+O
+11
+25AM098
+RITHISH R
+2
+
+57
+-
+95.0
+O
+12
+25AM099
+RITVIK S N
+2
+
+57
+-
+95.0
+O
+13
+25AM109
+SIVARAAM M
+2
+
+57
+-
+95.0
+O
+14
+25AM110
+SRISHANTH S
+2
+
+57
+-
+95.0
+O
+15
+25AM111
+STEFFINA J
+2
+
+58
+-
+97.0
+O
+16
+25AM114
+SUNITHA S
+2
+
+55
+-
+92.0
+O
+17
+25AM115
+TAMIL S
+2
+
+55
+-
+92.0
+O
+18
+25AM117
+UMA BHARATHI M
+2
+
+57
+-
+95.0
+O
+19
+25AM118
+VEERAKULAMMAL E
+2
+
+58
+-
+97.0
+O
+Center for Academic Courses (CFAC)
+KPR Institute of Engineering and Technology
+Page 3 of 5
+AM015:: 16-O3-2O26 O3:47:16 PM
+This document is computer generated and doesn't require any signature / stamp / seal to be valid.
+
+No
+Roll No.
+Fullname
+Semester
+Attendance
+Mark
+Opt. Mark
+Percentage
+Grade
+20
+25AM122
+VISHNU PRASAD G S
+2
+
+57
+-
+95.0
+O
+21
+25AM126
+YUVASRI C
+2
+
+57
+-
+95.0
+O
+Grade: A+ - Students
+No
+Roll No.
+Fullname
+Semester
+Attendance
+Mark
+Opt. Mark
+Percentage
+Grade
+1
+25AM064
+MAHALAKSHMI S
+2
+
+54
+-
+90.0
+A+
+2
+25AM067
+MOHAMED INTHIYAS M
+2
+
+54
+-
+90.0
+A+
+3
+25AM069
+MOHAMED SHAHEEM S
+2
+
+54
+-
+90.0
+A+
+4
+25AM070
+MOHAMMED ASHFAQ A
+2
+
+50
+-
+83.0
+A+
+5
+25AM071
+MOHANA PRIYA D
+2
+
+52
+-
+87.0
+A+
+6
+25AM072
+MONIKA S
+2
+
+51
+-
+85.0
+A+
+7
+25AM073
+MONISHA N
+2
+
+53
+-
+88.0
+A+
+8
+25AM075
+MOWSHIK G
+2
+
+54
+-
+90.0
+A+
+9
+25AM079
+NITHISH N T
+2
+
+51
+-
+85.0
+A+
+10
+25AM080
+NITHYA G
+2
+
+50
+-
+83.0
+A+
+11
+25AM081
+PAVIESHKUMAR K
+2
+
+54
+-
+90.0
+A+
+12
+25AM085
+PRATHIKSHA R
+2
+
+52
+-
+87.0
+A+
+13
+25AM087
+PREETHIKA M
+2
+
+53
+-
+88.0
+A+
+14
+25AM090
+RABEESH R
+2
+
+53
+-
+88.0
+A+
+15
+25AM092
+RAGURAAM M
+2
+
+52
+-
+87.0
+A+
+16
+25AM095
+RANJANI PRIYA A S
+2
+
+53
+-
+88.0
+A+
+17
+25AM101
+ROHITHA S
+2
+
+51
+-
+85.0
+A+
+18
+25AM105
+SAPARNA SIVAKUMAR
+2
+
+51
+-
+85.0
+A+
+19
+25AM106
+SASMITHA K M
+2
+
+50
+-
+83.0
+A+
+20
+25AM108
+SHAM C R
+2
+
+52
+-
+87.0
+A+
+21
+25AM112
+SUGUNA S
+2
+
+51
+-
+85.0
+A+
+22
+25AM113
+SUJITH G
+2
+
+53
+-
+88.0
+A+
+23
+25AM116
+THIRUMURUGAN B
+2
+
+50
+-
+83.0
+A+
+24
+25AM119
+VENKATESH PRABHU M
+2
+
+54
+-
+90.0
+A+
+25
+25AM120
+VIGNESH S
+2
+
+51
+-
+85.0
+A+
+26
+25AM123
+VISHWA S P
+2
+
+52
+-
+87.0
+A+
+27
+25AM125
+YUVAN NANDAN B
+2
+
+52
+-
+87.0
+A+
+28
+25AM127
+ASHWIN R
+2
+
+50
+-
+83.0
+A+
+Grade: A - Students
+No
+Roll No.
+Fullname
+Semester
+Attendance
+Mark
+Opt. Mark
+Percentage
+Grade
+1
+25AM065
+MATHESH M
+2
+
+47
+-
+78.0
+A
+2
+25AM068
+MOHAMED IZZAZ M
+2
+
+48
+-
+80.0
+A
+3
+25AM078
+NIRANJAN KUMAR S
+2
+
+46
+-
+77.0
+A
+4
+25AM088
+PREM N
+2
+
+47
+-
+78.0
+A
+5
+25AM089
+PRIYANKA P
+2
+
+45
+-
+75.0
+A
+Center for Academic Courses (CFAC)
+KPR Institute of Engineering and Technology
+Page 4 of 5
+AM015:: 16-O3-2O26 O3:47:16 PM
+This document is computer generated and doesn't require any signature / stamp / seal to be valid.
+
+No
+Roll No.
+Fullname
+Semester
+Attendance
+Mark
+Opt. Mark
+Percentage
+Grade
+6
+25AM093
+RAJA P
+2
+
+46
+-
+77.0
+A
+7
+25AM100
+ROHESH V
+2
+
+44
+-
+73.0
+A
+8
+25AM103
+SABITHA A
+2
+
+44
+-
+73.0
+A
+9
+25AM107
+SENAAN Y A
+2
+
+48
+-
+80.0
+A
+10
+25AM121
+VISHANTH M
+2
+
+48
+-
+80.0
+A
+11
+25AM124
+YOGESHWARAN K
+2
+
+46
+-
+77.0
+A
+12
+25AM134
+AHMAD ALALOUNI
+2
+
+46
+-
+77.0
+A
+Grade: B+ - Students
+No
+Roll No.
+Fullname
+Semester
+Attendance
+Mark
+Opt. Mark
+Percentage
+Grade
+1
+25AM091
+RAGHAVI M
+2
+
+42
+-
+70.0
+B+
+2
+25AM102
+ROSHNI KAILASH BRINDHA
+2
+
+39
+-
+65.0
+B+
+3
+25AM104
+SAI VARSHINI J
+2
+
+42
+-
+70.0
+B+
+4
+25AM131
+RITTA DEEB
+2
+
+40
+-
+67.0
+B+
+5
+25AM135
+HASHEM ALALOUNI
+2
+
+39
+-
+65.0
+B+
+6
+25AM138
+MUHAMMAD WILIAM JADID
+2
+
+40
+-
+67.0
+B+
+Grade: C - Students
+No
+Roll No.
+Fullname
+Semester
+Attendance
+Mark
+Opt. Mark
+Percentage
+Grade
+1
+25AM082
+PERARASU G
+2
+
+31
+-
+52.0
+C
+Grade: U - Students
+No
+Roll No.
+Fullname
+Semester
+Attendance
+Mark
+Opt. Mark
+Percentage
+Grade
+1
+25AM129
+JANA AHMAD YOUSEF
+2
+
+10
+-
+17.0
+U
+2
+25AM137
+MAYA HASSAN
+2
+
+17
+-
+28.0
+U
+3
+25AM139
+YOUSSEF DRGHAM
+2
+
+12
+-
+20.0
+U
+*** End of Statement ***
+Center for Academic Courses (CFAC)
+KPR Institute of Engineering and Technology
+Page 5 of 5
+AM015:: 16-O3-2O26 O3:47:16 PM
+This document is computer generated and doesn't require any signature / stamp / seal to be valid.

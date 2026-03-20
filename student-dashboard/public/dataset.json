@@ -1,0 +1,641 @@
+[
+  {
+    "roll": "25AM064",
+    "name": "MAHALAKSHMI S",
+    "EVS": 29,
+    "Applied Physics": 50,
+    "Python": 54,
+    "Artificial Intelligence": 58,
+    "LAML": 56
+  },
+  {
+    "roll": "25AM065",
+    "name": "MATHESH M",
+    "EVS": 20,
+    "Applied Physics": 41,
+    "Python": 47,
+    "Artificial Intelligence": 40,
+    "LAML": 52
+  },
+  {
+    "roll": "25AM066",
+    "name": "MEYARULMOORTHI R",
+    "EVS": 24,
+    "Applied Physics": 55,
+    "Python": 59,
+    "Artificial Intelligence": 49,
+    "LAML": 54
+  },
+  {
+    "roll": "25AM067",
+    "name": "MOHAMED INTHIYAS M",
+    "EVS": 22,
+    "Applied Physics": 41,
+    "Python": 54,
+    "Artificial Intelligence": 43,
+    "LAML": 43
+  },
+  {
+    "roll": "25AM068",
+    "name": "MOHAMED IZZAZ M",
+    "EVS": 25,
+    "Applied Physics": 38,
+    "Python": 48,
+    "Artificial Intelligence": 37,
+    "LAML": 54
+  },
+  {
+    "roll": "25AM069",
+    "name": "MOHAMED SHAHEEM S",
+    "EVS": 16,
+    "Applied Physics": 52,
+    "Python": 54,
+    "Artificial Intelligence": 50,
+    "LAML": 52
+  },
+  {
+    "roll": "25AM070",
+    "name": "MOHAMMED ASHFAQ A",
+    "EVS": 21,
+    "Applied Physics": 38,
+    "Python": 50,
+    "Artificial Intelligence": 45,
+    "LAML": 12
+  },
+  {
+    "roll": "25AM071",
+    "name": "MOHANA PRIYA D",
+    "EVS": 21,
+    "Applied Physics": 36,
+    "Python": 52,
+    "Artificial Intelligence": 30,
+    "LAML": 47
+  },
+  {
+    "roll": "25AM072",
+    "name": "MONIKA S",
+    "EVS": 26,
+    "Applied Physics": 48,
+    "Python": 51,
+    "Artificial Intelligence": 48,
+    "LAML": 53
+  },
+  {
+    "roll": "25AM073",
+    "name": "MONISHA N",
+    "EVS": 28,
+    "Applied Physics": 50,
+    "Python": 53,
+    "Artificial Intelligence": 53,
+    "LAML": 49
+  },
+  {
+    "roll": "25AM074",
+    "name": "MONISHWAR S",
+    "EVS": 25,
+    "Applied Physics": 46,
+    "Python": 58,
+    "Artificial Intelligence": 55,
+    "LAML": 52
+  },
+  {
+    "roll": "25AM075",
+    "name": "MOWSHIK G",
+    "EVS": 27,
+    "Applied Physics": 53,
+    "Python": 54,
+    "Artificial Intelligence": 55,
+    "LAML": 54
+  },
+  {
+    "roll": "25AM076",
+    "name": "NAVANEETHAN N S",
+    "EVS": 26,
+    "Applied Physics": 49,
+    "Python": 58,
+    "Artificial Intelligence": 52,
+    "LAML": 47
+  },
+  {
+    "roll": "25AM077",
+    "name": "NEHA S T",
+    "EVS": 24,
+    "Applied Physics": 48,
+    "Python": 58,
+    "Artificial Intelligence": 43,
+    "LAML": 57
+  },
+  {
+    "roll": "25AM078",
+    "name": "NIRANJAN KUMAR S",
+    "EVS": 23,
+    "Applied Physics": 38,
+    "Python": 46,
+    "Artificial Intelligence": 40,
+    "LAML": 44
+  },
+  {
+    "roll": "25AM079",
+    "name": "NITHISH N T",
+    "EVS": 10,
+    "Applied Physics": 36,
+    "Python": 51,
+    "Artificial Intelligence": 37,
+    "LAML": 41
+  },
+  {
+    "roll": "25AM080",
+    "name": "NITHYA G",
+    "EVS": 25,
+    "Applied Physics": 36,
+    "Python": 50,
+    "Artificial Intelligence": 42,
+    "LAML": 49
+  },
+  {
+    "roll": "25AM081",
+    "name": "PAVIESHKUMAR K",
+    "EVS": 25,
+    "Applied Physics": 53,
+    "Python": 54,
+    "Artificial Intelligence": 53,
+    "LAML": 45
+  },
+  {
+    "roll": "25AM082",
+    "name": "PERARASU G",
+    "EVS": 9,
+    "Applied Physics": 31,
+    "Python": 31,
+    "Artificial Intelligence": 30,
+    "LAML": 24
+  },
+  {
+    "roll": "25AM083",
+    "name": "PRACHITH BALAJI G",
+    "EVS": 25,
+    "Applied Physics": 32,
+    "Python": 56,
+    "Artificial Intelligence": 45,
+    "LAML": 49
+  },
+  {
+    "roll": "25AM084",
+    "name": "PRANESH D",
+    "EVS": 24,
+    "Applied Physics": 51,
+    "Python": 57,
+    "Artificial Intelligence": 54,
+    "LAML": 58
+  },
+  {
+    "roll": "25AM085",
+    "name": "PRATHIKSHA R",
+    "EVS": 18,
+    "Applied Physics": 48,
+    "Python": 52,
+    "Artificial Intelligence": 51,
+    "LAML": 55
+  },
+  {
+    "roll": "25AM086",
+    "name": "PRAVIN KUMAR A C",
+    "EVS": 21,
+    "Applied Physics": 46,
+    "Python": 57,
+    "Artificial Intelligence": 50,
+    "LAML": 54
+  },
+  {
+    "roll": "25AM087",
+    "name": "PREETHIKA M",
+    "EVS": 27,
+    "Applied Physics": 49,
+    "Python": 53,
+    "Artificial Intelligence": 48,
+    "LAML": 51
+  },
+  {
+    "roll": "25AM088",
+    "name": "PREM N",
+    "EVS": 18,
+    "Applied Physics": 31,
+    "Python": 47,
+    "Artificial Intelligence": 33,
+    "LAML": 47
+  },
+  {
+    "roll": "25AM089",
+    "name": "PRIYANKA P",
+    "EVS": 16,
+    "Applied Physics": 37,
+    "Python": 45,
+    "Artificial Intelligence": 44,
+    "LAML": 46
+  },
+  {
+    "roll": "25AM090",
+    "name": "RABEESH R",
+    "EVS": 23,
+    "Applied Physics": 51,
+    "Python": 53,
+    "Artificial Intelligence": 52,
+    "LAML": 46
+  },
+  {
+    "roll": "25AM091",
+    "name": "RAGHAVI M",
+    "EVS": 17,
+    "Applied Physics": 32,
+    "Python": 42,
+    "Artificial Intelligence": 35,
+    "LAML": 35
+  },
+  {
+    "roll": "25AM092",
+    "name": "RAGURAAM M",
+    "EVS": 21,
+    "Applied Physics": 31,
+    "Python": 52,
+    "Artificial Intelligence": 42,
+    "LAML": 40
+  },
+  {
+    "roll": "25AM093",
+    "name": "RAJA P",
+    "EVS": 27,
+    "Applied Physics": 38,
+    "Python": 46,
+    "Artificial Intelligence": 41,
+    "LAML": 38
+  },
+  {
+    "roll": "25AM094",
+    "name": "RAJESH S",
+    "EVS": 18,
+    "Applied Physics": 51,
+    "Python": 56,
+    "Artificial Intelligence": 35,
+    "LAML": 45
+  },
+  {
+    "roll": "25AM095",
+    "name": "RANJANI PRIYA A S",
+    "EVS": 24,
+    "Applied Physics": 45,
+    "Python": 53,
+    "Artificial Intelligence": 45,
+    "LAML": 56
+  },
+  {
+    "roll": "25AM096",
+    "name": "RASWANTHI V P",
+    "EVS": 18,
+    "Applied Physics": 34,
+    "Python": 55,
+    "Artificial Intelligence": 33,
+    "LAML": 43
+  },
+  {
+    "roll": "25AM097",
+    "name": "S RITHIK SARAN",
+    "EVS": 27,
+    "Applied Physics": 48,
+    "Python": 56,
+    "Artificial Intelligence": 53,
+    "LAML": 58
+  },
+  {
+    "roll": "25AM098",
+    "name": "RITHISH R",
+    "EVS": 16,
+    "Applied Physics": 31,
+    "Python": 57,
+    "Artificial Intelligence": 41,
+    "LAML": 46
+  },
+  {
+    "roll": "25AM099",
+    "name": "RITVIK S N",
+    "EVS": 19,
+    "Applied Physics": 43,
+    "Python": 57,
+    "Artificial Intelligence": 49,
+    "LAML": 42
+  },
+  {
+    "roll": "25AM100",
+    "name": "ROHESH V",
+    "EVS": 15,
+    "Applied Physics": 38,
+    "Python": 44,
+    "Artificial Intelligence": 32,
+    "LAML": 32
+  },
+  {
+    "roll": "25AM101",
+    "name": "ROHITHA S",
+    "EVS": 17,
+    "Applied Physics": 39,
+    "Python": 51,
+    "Artificial Intelligence": 37,
+    "LAML": 30
+  },
+  {
+    "roll": "25AM102",
+    "name": "ROSHNI KAILASH BRINDHA",
+    "EVS": 16,
+    "Applied Physics": 49,
+    "Python": 39,
+    "Artificial Intelligence": 45,
+    "LAML": 53
+  },
+  {
+    "roll": "25AM103",
+    "name": "SABITHA A",
+    "EVS": 17,
+    "Applied Physics": 41,
+    "Python": 44,
+    "Artificial Intelligence": 42,
+    "LAML": 50
+  },
+  {
+    "roll": "25AM104",
+    "name": "SAI VARSHINI J",
+    "EVS": 4,
+    "Applied Physics": 49,
+    "Python": 42,
+    "Artificial Intelligence": 38,
+    "LAML": 45
+  },
+  {
+    "roll": "25AM105",
+    "name": "SAPARNA SIVAKUMAR",
+    "EVS": 16,
+    "Applied Physics": 41,
+    "Python": 51,
+    "Artificial Intelligence": 43,
+    "LAML": 53
+  },
+  {
+    "roll": "25AM106",
+    "name": "SASMITHA K M",
+    "EVS": 21,
+    "Applied Physics": 39,
+    "Python": 50,
+    "Artificial Intelligence": 45,
+    "LAML": 50
+  },
+  {
+    "roll": "25AM107",
+    "name": "SENAAN Y A",
+    "EVS": 17,
+    "Applied Physics": 33,
+    "Python": 48,
+    "Artificial Intelligence": 34,
+    "LAML": 30
+  },
+  {
+    "roll": "25AM108",
+    "name": "SHAM C R",
+    "EVS": 27,
+    "Applied Physics": 50,
+    "Python": 52,
+    "Artificial Intelligence": 42,
+    "LAML": 58
+  },
+  {
+    "roll": "25AM109",
+    "name": "SIVARAAM M",
+    "EVS": 14,
+    "Applied Physics": 31,
+    "Python": 57,
+    "Artificial Intelligence": 38,
+    "LAML": 40
+  },
+  {
+    "roll": "25AM110",
+    "name": "SRISHANTH S",
+    "EVS": 24,
+    "Applied Physics": 54,
+    "Python": 57,
+    "Artificial Intelligence": 37,
+    "LAML": 51
+  },
+  {
+    "roll": "25AM111",
+    "name": "STEFFINA J",
+    "EVS": 27,
+    "Applied Physics": 57,
+    "Python": 58,
+    "Artificial Intelligence": 58,
+    "LAML": 58
+  },
+  {
+    "roll": "25AM112",
+    "name": "SUGUNA S",
+    "EVS": 22,
+    "Applied Physics": 54,
+    "Python": 51,
+    "Artificial Intelligence": 48,
+    "LAML": 53
+  },
+  {
+    "roll": "25AM113",
+    "name": "SUJITH G",
+    "EVS": 22,
+    "Applied Physics": 31,
+    "Python": 53,
+    "Artificial Intelligence": 40,
+    "LAML": 48
+  },
+  {
+    "roll": "25AM114",
+    "name": "SUNITHA S",
+    "EVS": 25,
+    "Applied Physics": 53,
+    "Python": 55,
+    "Artificial Intelligence": 53,
+    "LAML": 56
+  },
+  {
+    "roll": "25AM115",
+    "name": "TAMIL S",
+    "EVS": 20,
+    "Applied Physics": 42,
+    "Python": 55,
+    "Artificial Intelligence": 41,
+    "LAML": 55
+  },
+  {
+    "roll": "25AM116",
+    "name": "THIRUMURUGAN B",
+    "EVS": 24,
+    "Applied Physics": 43,
+    "Python": 50,
+    "Artificial Intelligence": 53,
+    "LAML": 58
+  },
+  {
+    "roll": "25AM117",
+    "name": "UMA BHARATHI M",
+    "EVS": 24,
+    "Applied Physics": 39,
+    "Python": 57,
+    "Artificial Intelligence": 50,
+    "LAML": 53
+  },
+  {
+    "roll": "25AM118",
+    "name": "VEERAKULAMMAL E",
+    "EVS": 24,
+    "Applied Physics": 34,
+    "Python": 58,
+    "Artificial Intelligence": 41,
+    "LAML": 51
+  },
+  {
+    "roll": "25AM119",
+    "name": "VENKATESH PRABHU M",
+    "EVS": 19,
+    "Applied Physics": 50,
+    "Python": 54,
+    "Artificial Intelligence": 39,
+    "LAML": 52
+  },
+  {
+    "roll": "25AM120",
+    "name": "VIGNESH S",
+    "EVS": 20,
+    "Applied Physics": 49,
+    "Python": 51,
+    "Artificial Intelligence": 39,
+    "LAML": 54
+  },
+  {
+    "roll": "25AM121",
+    "name": "VISHANTH M",
+    "EVS": 15,
+    "Applied Physics": 33,
+    "Python": 48,
+    "Artificial Intelligence": 34,
+    "LAML": 35
+  },
+  {
+    "roll": "25AM122",
+    "name": "VISHNU PRASAD G S",
+    "EVS": 19,
+    "Applied Physics": 54,
+    "Python": 57,
+    "Artificial Intelligence": 47,
+    "LAML": 57
+  },
+  {
+    "roll": "25AM123",
+    "name": "VISHWA S P",
+    "EVS": 18,
+    "Applied Physics": 49,
+    "Python": 52,
+    "Artificial Intelligence": 43,
+    "LAML": 45
+  },
+  {
+    "roll": "25AM124",
+    "name": "YOGESHWARAN K",
+    "EVS": 19,
+    "Applied Physics": 38,
+    "Python": 46,
+    "Artificial Intelligence": 44,
+    "LAML": 47
+  },
+  {
+    "roll": "25AM125",
+    "name": "YUVAN NANDAN B",
+    "EVS": 18,
+    "Applied Physics": 37,
+    "Python": 52,
+    "Artificial Intelligence": 46,
+    "LAML": 47
+  },
+  {
+    "roll": "25AM126",
+    "name": "YUVASRI C",
+    "EVS": 23,
+    "Applied Physics": 47,
+    "Python": 57,
+    "Artificial Intelligence": 50,
+    "LAML": 57
+  },
+  {
+    "roll": "25AM127",
+    "name": "ASHWIN R",
+    "EVS": 19,
+    "Applied Physics": 39,
+    "Python": 50,
+    "Artificial Intelligence": 52,
+    "LAML": 46
+  },
+  {
+    "roll": "25AM129",
+    "name": "JANA AHMAD YOUSEF",
+    "EVS": 13,
+    "Applied Physics": "UA",
+    "Python": 10,
+    "Artificial Intelligence": 23,
+    "LAML": 4
+  },
+  {
+    "roll": "25AM131",
+    "name": "RITTA DEEB",
+    "EVS": 18,
+    "Applied Physics": "UA",
+    "Python": 40,
+    "Artificial Intelligence": 36,
+    "LAML": "UA"
+  },
+  {
+    "roll": "25AM134",
+    "name": "AHMAD ALALOUNI",
+    "EVS": 15,
+    "Applied Physics": 32,
+    "Python": 46,
+    "Artificial Intelligence": 45,
+    "LAML": 24
+  },
+  {
+    "roll": "25AM135",
+    "name": "HASHEM ALALOUNI",
+    "EVS": 18,
+    "Applied Physics": 35,
+    "Python": 39,
+    "Artificial Intelligence": 41,
+    "LAML": 30
+  },
+  {
+    "roll": "25AM137",
+    "name": "MAYA HASSAN",
+    "EVS": 13,
+    "Applied Physics": 31,
+    "Python": 17,
+    "Artificial Intelligence": 41,
+    "LAML": 21
+  },
+  {
+    "roll": "25AM138",
+    "name": "MUHAMMAD WILIAM JADID",
+    "EVS": 18,
+    "Applied Physics": 32,
+    "Python": 40,
+    "Artificial Intelligence": 38,
+    "LAML": 30
+  },
+  {
+    "roll": "25AM139",
+    "name": "YOUSSEF DRGHAM",
+    "EVS": 13,
+    "Applied Physics": 38,
+    "Python": 12,
+    "Artificial Intelligence": 42,
+    "LAML": 19
+  }
+]

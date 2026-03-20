@@ -1,0 +1,9 @@
+﻿Subject                   | Pass  | Fail  | Absent
+--------------------------------------------------
+EVS                       | 64    | 7     | 0     
+Applied Physics           | 69    | 0     | 2     
+Python                    | 68    | 3     | 0     
+Artificial Intelligence   | 70    | 1     | 0     
+LAML                      | 64    | 6     | 1     
+
+Total students: 71
