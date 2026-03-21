@@ -172,7 +172,7 @@ export default function DataTable({ data = [] }) {
               <tbody>
                 {data.map((student, index) => {
                   const total = subjectKeys.reduce((sum, key) => sum + (typeof student[key] === 'number' ? student[key] : 0), 0);
-                  const average = subjectKeys.length > 0 ? total / subjectKeys.length : 0;
+                  const average = (total / 270) * 100;
 
                   return (
                     <tr key={index}>
