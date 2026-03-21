@@ -197,7 +197,7 @@ export default function Dashboard({ students = [] }) {
       .sort((a, b) => a.failSubjects - b.failSubjects);
   }, [filteredStudents, stats.subjects]);
 
-  const top3Students = useMemo(() => {
+  const top7Students = useMemo(() => {
     if (!filteredStudents || filteredStudents.length === 0 || stats.subjects.length === 0) return [];
 
     const studentsWithTotal = filteredStudents.map(student => {
@@ -208,7 +208,7 @@ export default function Dashboard({ students = [] }) {
       return { ...student, totalMarks: total };
     });
 
-    return studentsWithTotal.sort((a, b) => b.totalMarks - a.totalMarks).slice(0, 3);
+    return studentsWithTotal.sort((a, b) => b.totalMarks - a.totalMarks).slice(0, 7);
   }, [filteredStudents, stats.subjects]);
 
   const manualArrearData = useMemo(() => {
@@ -525,9 +525,9 @@ export default function Dashboard({ students = [] }) {
         <div className="col-12 col-xl-6">
           <div className="card shadow-sm h-100">
             <div className="card-body">
-              <h5 className="card-title mb-3">Top 3 Students</h5>
+              <h5 className="card-title mb-3">Top 7 Students</h5>
               <div className="list-group" style={{ cursor: "pointer" }}>
-                {top3Students.map((student, idx) => (
+                {top7Students.map((student, idx) => (
                   <div key={student.roll} className="list-group-item list-group-item-action" onClick={() => toggleStudent(student.roll)}>
                     <div className="d-flex w-100 justify-content-between align-items-center">
                       <h6 className="mb-1">#{idx + 1} {student.name} ({student.roll})</h6>
